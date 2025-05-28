@@ -26,14 +26,30 @@ Here are some ideas to get you started:
 - :hearts: 富强、民主、文明、和谐: 是从价值目标层面对社会主义核心价值观基本理念的凝练
 - :1st_place_medal: 自由、平等、公正、法治: 是我们党矢志不渝、长期实践的核心价值理念
 - :sun_with_face: 爱国、敬业、诚信、友善: 个人行为层面对社会主义核心价值观基本理念的凝练
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/zhiyuehh/count.svg)th visitor
 </div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zhiyuehh/zhiyuehh/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zhiyuehh/zhiyuehh/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/zhiyuehh/zhiyuehh/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+---
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)th visitor
-</div>
+<!-- 贪吃蛇 -->
+![](https://raw.githubusercontent.com/zhiyuehh/zhiyuehh/refs/heads/output/github-contribution-grid-snake.svg)
+
+
+### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,git,docker,vim,qt" />
+  </a>
+</p>
+
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=zhiyuehh&abbreviated=true&color=yellow" />
+<a href="https://github.com/zhiyuehh"><img src="https://img.shields.io/badge/GitHub-zhiyuehh-blue?logo=github" /></a>
+<!-- <a href="https://zhiyuehh.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a> -->
+<!-- <img src="https://img.shields.io/badge/QQ-2038865970-green?logo=tencentqq" /> -->
+<!-- <img href="mailto:xenon4065@gmail.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" /> -->
+</p>
+---
+
