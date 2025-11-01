@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - :1st_place_medal: 自由、平等、公正、法治: 是我们党矢志不渝、长期实践的核心价值理念
 - :sun_with_face: 爱国、敬业、诚信、友善: 个人行为层面对社会主义核心价值观基本理念的凝练
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/zhiyuehh/count.svg)th visitor
+<!--You are my ![Visitor Count](https://profile-counter.glitch.me/zhiyuehh/count.svg)th visitor-->
+![](https://komarev.com/ghpvc/?username=zhiyuehh&style=flat-square)
 </div>
 
 ---
